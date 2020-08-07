@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RoboFerret/static/css/main.52de3ae3.chunk.css",
+    "main.js": "/RoboFerret/static/js/main.a279281d.chunk.js",
+    "main.js.map": "/RoboFerret/static/js/main.a279281d.chunk.js.map",
+    "runtime-main.js": "/RoboFerret/static/js/runtime-main.3cd16182.js",
+    "runtime-main.js.map": "/RoboFerret/static/js/runtime-main.3cd16182.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/RoboFerret/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9bef86a0.chunk.js": "/RoboFerret/static/js/2.9bef86a0.chunk.js",
+    "static/js/2.9bef86a0.chunk.js.map": "/RoboFerret/static/js/2.9bef86a0.chunk.js.map",
+    "index.html": "/RoboFerret/index.html",
+    "precache-manifest.282e7206fade9003541485fbf6a07243.js": "/RoboFerret/precache-manifest.282e7206fade9003541485fbf6a07243.js",
+    "service-worker.js": "/RoboFerret/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/RoboFerret/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.52de3ae3.chunk.css.map": "/RoboFerret/static/css/main.52de3ae3.chunk.css.map",
+    "static/js/2.9bef86a0.chunk.js.LICENSE.txt": "/RoboFerret/static/js/2.9bef86a0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RoboFerret/static/media/Future-Earth.49c399b9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cd16182.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9bef86a0.chunk.js",
+    "static/css/main.52de3ae3.chunk.css",
+    "static/js/main.a279281d.chunk.js"
+  ]
+}
