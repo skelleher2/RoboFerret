@@ -1,6 +1,6 @@
 {
   "name": "filmferret",
-  "homepage":"https://skelleher2.github.io/RoboFerret/",
+  "homepage": "https://skelleher2.github.io/RoboFerret/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
   },
   "browserslist": {
     "production": [
